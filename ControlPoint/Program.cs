@@ -8,7 +8,7 @@
             int a, b, c, _switch;
             while (true)
             {
-                Console.WriteLine("Это вариант 15");
+                Console.WriteLine("Это вариант 14");
                 Console.Write("Выберете задание от 1 до 3: ");
                 _switch = Convert.ToInt32(Console.ReadLine());
                 switch (_switch)
